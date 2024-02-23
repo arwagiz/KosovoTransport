@@ -45,7 +45,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
    
 
 - Energy policy 
-    
+    - [National Energy and Climate Plan (Draft, 2021)](https://www.energy-community.org/implementation/package/NECP.html)    
 
 
 ### EU accession <a name="eu-accession"></a> 
